@@ -3,8 +3,12 @@
 
 
 <p align="center">
-  <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" alt="footer"/>
-</p>
+  <img class="alignnone wp-image-2873" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" alt="footer" width="553" height="309">
+ </p>
+ <p align="center">
+- Developing!
+ </p>
+ <br><br>
 
 - 🔥 Programador em busca de aprendizado e da minha primeira oportunidade!
 
