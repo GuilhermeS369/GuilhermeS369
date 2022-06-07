@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82624468/171522027-9480e627-8e10-489a-87ec-4cae22375610.gif" alt="footer"/>
+  <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" alt="footer"/>
 </p>
 
 - 🔥 Programador em busca de aprendizado e da minha primeira oportunidade!
